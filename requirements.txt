@@ -1,8 +1,15 @@
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
-plotly
-pycountry
-statsmodels
+# Data manipulation and analysis
+pandas==2.3.3
+numpy==2.3.5
+
+# Modeling and machine learning
+scikit-learn==1.7.2
+statsmodels==0.14.5
+
+# Visualization
+matplotlib==3.10.7
+seaborn==0.13.2
+plotly==6.5.0
+
+# Utilities
+pycountry==24.6.1
